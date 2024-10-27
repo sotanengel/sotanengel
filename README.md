@@ -1,10 +1,10 @@
 # About Me
 
-1. 日本でプログラミングが好きで兼業でプログラマーやってるエンジニアです
+1. 日本でプログラミングが好きで兼業でプログラマーやってるエンジニアです(I'm an engineer at second business in Japan)
 
-2. Pythonを大学生時代に使っていましたが、最近はRustが好きになってもっぱら書いてます
+2. Pythonを大学生時代に使っていましたが、最近はRustが好きになってもっぱら書いてます(I used Python as a college student, but recently I've grown fond of Rust and write exclusively in it)
 
-3. [Qiita](https://qiita.com/sotanengel)でちょこちょこブログも書いてます👀
+3. [Qiita](https://qiita.com/sotanengel)でちょこちょこブログも書いてます👀(I also blog a bit on [Qiita](https://qiita.com/sotanengel) 👀)
 
 ## Programming Languages
 
