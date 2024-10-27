@@ -1,16 +1,14 @@
-## Hi there 👋
+# About Me
 
-<!--
-**sotanengel/sotanengel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+1. 日本でプログラミングが好きで兼業でプログラマーやってるエンジニアです
 
-Here are some ideas to get you started:
+2. Pythonを大学生時代に使っていましたが、最近はRustが好きになってもっぱら書いてます
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+3. [Qiita](https://qiita.com/sotanengel)でちょこちょこブログも書いてます👀
+
+## Programming Languages
+
+![](https://github-readme-stats.vercel.app/api/top-langs?username=sotanengel&show_icons=true&locale=en&layout=compact)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sotanengel&theme=default)
+
+<img src="https://skillicons.dev/icons?i=python,rust,wasm" /> <br /><br />
